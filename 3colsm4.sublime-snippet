@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-4">
+			${1:face}
+		</div>
+		<div class="col-sm-4">
+			
+		</div>
+		<div class="col-sm-4">
+			
+		</div>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>3colsm4</tabTrigger>
+	<scope>text.html, text.x</scope>
+</snippet>

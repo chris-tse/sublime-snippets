@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="col-xs-${1:size}">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>colxs</tabTrigger>
+	<scope>text.html, text.x</scope>
+</snippet>

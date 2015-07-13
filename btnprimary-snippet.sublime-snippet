@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn btn-primary" href="${1:location}">${2:button text}</a>
+]]></content>
+	<tabTrigger>btnprimary</tabTrigger>
+	<scope>text.html, text.x</scope>
+</snippet>

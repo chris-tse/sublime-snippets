@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="container-fluid">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>containerf</tabTrigger>
+	<scope>text.html, text.x</scope>
+</snippet>
